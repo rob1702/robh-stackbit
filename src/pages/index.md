@@ -41,7 +41,14 @@ sections:
           justo, sit amet condimentum lorem nibh vel quam. Duis consectetur
           lorem ipsum, non efficitur urna viverra et.
         title: Service title
-    subtitle: An optional subtitle of the section
+    subtitle: >-
+      I offer a wide variety of web design, web development and digital
+      marketing solutions. Over the years since graduating with a BA (Hons)
+      degree in Digital Media Design I have helped clients transform their ideas
+      and requirements into a website that not only exceeds their expectations
+      but has helped their businesses and online presence grow. Not only do I
+      create mobile responsive websites that are SEO friendly and perform well.
+      I also offer long-term support, SEO audits, and hosting / domain services.
     title: What We Do
     type: servicesblock
   - component: TestimonialsBlock
