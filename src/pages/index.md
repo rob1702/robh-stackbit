@@ -3,7 +3,7 @@ title: Home
 sections:
   - component: HeroBlock
     content: >-
-      Hello, I’m Rob Harris a full time web developer currently employed by
+      Hello, I’m Rob Harris a full time senior web developer currently employed by
       FINALLY Agency, a full service marketing agency in Canterbury, Kent.
       Outside of work hours I help companies develop and grow their digital
       products.
